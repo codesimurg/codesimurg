@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codesimurg
 - 👀 I’m interested in computer science, data science and web development.
 - 🌱 I’m currently learning several things at the same time.
--
+-  I am studying pg computer science with data science.
 -
 
 <!---
